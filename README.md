@@ -8,6 +8,16 @@ AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 
 
 ---
 
+## 🎓 Education
+
+- **Hongik University** — B.S. in Computer Engineering  
+  Mar 2016 – Feb 2025
+
+- **LIKELION Backend Bootcamp 19th (Java)**  
+  Aug 2025 – Feb 2026
+
+---
+
 ## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +42,7 @@ AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 
 
 ## 🚀 Main Project
 
-### FanLink
+### FanLink (Jan 2026 – Feb 2026)
 팬과 아티스트를 연결하는 플랫폼 프로젝트입니다.  
 라이브 스트리밍, 다시보기, 미디어 업로드/처리, 팬 참여 기능 등을 다루는 서비스를 팀 프로젝트로 개발했습니다.
 
@@ -75,7 +85,10 @@ AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 
 ## 🧠 Algorithm Study
 
 Java로 알고리즘 문제 해결을 꾸준히 학습하고 있습니다.  
-자료구조, 구현, 문자열, 탐색, 정렬, 누적합, 투 포인터 등 기본기를 중심으로 문제 해결 역량을 다지고 있습니다.
+문제를 풀면서 헷갈렸던 개념, 해결 과정을 찾아간 방식, 새롭게 알게 된 점을 함께 정리하고 있습니다.
+
+단순히 정답만 기록하는 것이 아니라,  
+**왜 막혔는지 / 어떻게 접근했는지 / 무엇을 배웠는지**를 남기려고 합니다.
 
 ---
 
@@ -89,7 +102,7 @@ Java로 알고리즘 문제 해결을 꾸준히 학습하고 있습니다.
     <img src="https://img.shields.io/badge/Velog-bok__sil-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
   <a href="https://bit.ly/fanlink-minseob" target="_blank">
-    <img src="https://img.shields.io/badge/Project_Docs-FanLink-4A90E2?style=for-the-badge&logo=notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Project_Docs-FanLink-4A90E2?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
   <a href="mailto:yangminseob@gmail.com">
     <img src="https://img.shields.io/badge/Email-yangminseob@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
