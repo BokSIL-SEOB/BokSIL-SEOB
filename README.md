@@ -3,12 +3,12 @@
 Java와 Spring Boot를 중심으로 백엔드 개발을 학습하고 있으며,  
 AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 설계에도 관심을 두고 있습니다.
 
-단순히 API를 구현하는 데서 끝나는 것이 아니라,  
+단순히 기능 구현에 그치지 않고,  
 **서비스가 실제로 어떻게 배포되고 운영되는지까지 이해하는 백엔드 개발자**를 지향합니다.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -20,7 +20,7 @@ AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 
 
 ---
 
-## About Me
+## 📌 About Me
 
 - Java, Spring Boot, JPA 기반 백엔드 개발을 중심으로 학습하고 있습니다.
 - AWS를 활용한 인프라 구성과 배포 자동화에 관심이 많습니다.
@@ -30,7 +30,7 @@ AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 
 
 ---
 
-## Main Project
+## 🚀 Main Project
 
 ### FanLink
 팬과 아티스트를 연결하는 플랫폼 프로젝트입니다.  
@@ -62,7 +62,7 @@ AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 
 
 ---
 
-## Interests
+## 🌱 Interests
 
 - Backend Architecture
 - AWS Infrastructure
@@ -72,15 +72,26 @@ AWS 기반 인프라 구성, 배포 자동화, 미디어 처리 파이프라인 
 
 ---
 
-## Algorithm Study
+## 🧠 Algorithm Study
 
 Java로 알고리즘 문제 해결을 꾸준히 학습하고 있습니다.  
 자료구조, 구현, 문자열, 탐색, 정렬, 누적합, 투 포인터 등 기본기를 중심으로 문제 해결 역량을 다지고 있습니다.
 
 ---
 
-## Links
+## 🔗 Links
 
-- GitHub: [BokSIL-SEOB](https://github.com/BokSIL-SEOB)
-- Project Docs: [FanLink Docs](https://bit.ly/fanlink-minseob)
-- Email: yangminseob@gmail.com
+<p>
+  <a href="https://github.com/BokSIL-SEOB" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-BokSIL--SEOB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@bok_sil/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-bok__sil-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  <a href="https://bit.ly/fanlink-minseob" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Docs-FanLink-4A90E2?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+  <a href="mailto:yangminseob@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yangminseob@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
